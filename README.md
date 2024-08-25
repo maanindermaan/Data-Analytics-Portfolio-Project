@@ -6,7 +6,7 @@ This project is a comprehensive data analytics portfolio showcasing various SQL 
 ## Project Structure
 The project consists of two main Python scripts and a set of SQL queries:
 
-1. `#data_analytics_portfolio_project.py`: The main script containing SQL queries and data visualizations.
+1. `data_analytics_portfolio_project.py`: The main script containing SQL queries and data visualizations.
 2. `csv_to_sql.ipynb`: A Jupyter notebook for importing CSV data into a MySQL database.
 3. `Questions.txt`: A file containing the list of queries categorized by complexity.
 
