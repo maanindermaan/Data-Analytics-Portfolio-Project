@@ -65,4 +65,4 @@ The project includes various data visualization techniques using matplotlib and 
 - Optimize queries for better performance on larger datasets
 
 ## Contributors
-Maninder Maan
+#### Maninder Maan
