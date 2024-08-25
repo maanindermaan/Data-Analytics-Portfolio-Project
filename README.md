@@ -13,7 +13,7 @@ The project consists of two main Python scripts and a set of SQL queries:
 ## Setup and Installation
 
 ### Prerequisites
-- Python 3.x
+- Python 
 - MySQL Server
 - Required Python libraries: pandas, matplotlib, seaborn, mysql-connector-python
 
